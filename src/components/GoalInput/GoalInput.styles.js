@@ -2,7 +2,7 @@ import { StyleSheet } from "react-native";
 
 export default StyleSheet.create({
   inputContainer: {
-    backgroundColor: "#311b6b",
+    backgroundColor: "#1e085a",
     padding: 16,
     flex: 1,
     justifyContent: "center",
